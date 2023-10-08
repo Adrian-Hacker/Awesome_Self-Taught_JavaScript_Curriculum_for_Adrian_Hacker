@@ -2,6 +2,10 @@
 
 For the self-taught software engineer this module contains learning material and activities for learning a solid foundation of JavaScript necessary for skilled web development and best practices for using JavaScript.
 
+# Adrian's Awesome Explainer* for the Self-Taught Student:  Git and Github
+
+Self taught software developers do not get the benefit of formal explanations on many of the tools and work flows taken for granted by traditional educational programs. 
+
 
 # Learning Material
  
@@ -37,3 +41,5 @@ For the self-taught software engineer this module contains learning material and
 - Strict Mode
 - JavaScript Libraries and Frameworks
 - JavaScript Tools
+
+*Explained at a seventh grade or lower level of comprehension so you no longer have to feel like the last one in the room who has no idea what this $h!% even does.
