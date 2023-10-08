@@ -31,12 +31,15 @@ This snippet will make sense once you reach that chapter in the book 📖. You m
 
 JavaScript doesn't require a compiler and works in any browser, be it Mac, Windows, or Linux 🌐. In the early days of the WWW, companies needed a standard to avoid a "choose your own adventure" scenario, akin to VHS vs. Beta or Blu-Ray vs. HD-DVD 📼. Enter JavaScript. It breaks down all the HTML elements on a webpage into objects, known as the Document Object Model (DOM) 📄.  There was now a way to make the things inside of a \<body> tag or \<h1> or \<div> etc.. do program kinds of things, and change the look and the content displayed without any compiling needed.
 
-But wait, there's more! It also controls browser activities, like pop-up windows or screen size, termed the Browser Object Model (BOM) 🖥️. This led to robust features, making JavaScript a comprehensive language. Innovations like Node.js allow JavaScript to function outside the browser, enabling full client/server programs without requiring compilation and being OS-agnostic 🌟.
+But wait, there's more! It also controls browser activities, like pop-up windows or screen size, termed the Browser Object Model (BOM) 🖥️. This led to robust features, making JavaScript a comprehensive language. Innovations like Node.js allow JavaScript to function outside the browser, enabling full client/server programs without requiring compilation and being OS-agnostic 🌟.  Read every page of everything listed below and complete the activites as part of your  own portfolio.
 
 # Learning Material
  
- ### Book: JavaScript for Web Developers 5ed (see folder)
+ ### MDN JavaScript Documentation
 
+ - [MDN JavaScript Official Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ 
+ ### Book: JavaScript for Web Developers 5ed (Learning Material Folder)
 
 
 - JavaScript in HTML
@@ -70,14 +73,13 @@ But wait, there's more! It also controls browser activities, like pop-up windows
 
 # JavaScript Learning Projects
 
-- Simple To-Do List
-- Fully Functional Calculator
-- Digital representation of an Analog Clock in the browser
+- Simple to-do List
+- Fully functional web based calculator
+- Digital representation of an analog clock in the browser
 
-## Date Completed
+# Additional Modules
 
-In progress
-
+ - Awesome Self-Taught Data Structures Curriculum (pending creation as of 10/8/23)
 
 
 *A.I. was used for spelling, grammar, and emoji placement only.
