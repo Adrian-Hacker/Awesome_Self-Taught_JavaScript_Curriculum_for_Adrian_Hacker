@@ -40,9 +40,9 @@ But wait, there's more! It also controls browser activities, like pop-up windows
  - [MDN JavaScript Official Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  
  ### Book: Eloquent JavaScript: A Modern Introduction to Programming
-Third Edition
-[PDF](Books/Eloquent_JavaScript.pdf)
-[EPUB](Books/Eloquent_JavaScript.epub)
+ ### Third Edition<br>
+[PDF](Books/Eloquent_JavaScript.pdf)<br>
+[EPUB](Books/Eloquent_JavaScript.epub)<br>
 
 ### Learning Objectives
 
@@ -63,9 +63,35 @@ Third Edition
 
 # JavaScript Learning Exercises and Projects
 ### Eloquent JavaScript Exercises
-- Simple to-do List
-- Fully functional web based calculator
-- Digital representation of an analog clock in the browser
+Complete the exercises on the following pages:
+- Page 37
+- Page 55
+- Page 79
+- Page 95
+- Page 115
+- Page 126
+- Page 165
+- Page 178
+- Page 201
+- Page 214
+- Page 241
+- Page 259
+- Page 282
+- Page 306
+- Page 328
+- Page 348
+- Page 367
+- Page 387
+
+
+### Eloquent JavaScript Projects 
+
+- Project: A Robot - Page 117
+- Project: A Programming Language - Page 202
+- Project: A Platform Game - Page 261
+- Project: A Pixel Art Editor - Page 330
+- Project: A Skills Sharing Website - Page 369
+
 
 # Additional Modules
 
