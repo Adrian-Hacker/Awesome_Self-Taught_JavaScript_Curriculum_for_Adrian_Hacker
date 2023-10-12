@@ -39,44 +39,30 @@ But wait, there's more! It also controls browser activities, like pop-up windows
 
  - [MDN JavaScript Official Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  
- ### Book: PROFESSIONAL JavaScript® for Web Developers
+ ### Book: Eloquent JavaScript: A Modern Introduction to Programming
+Third Edition
+[PDF](Books/Eloquent_JavaScript.pdf)
+[EPUB](Books/Eloquent_JavaScript.epub)
 
-Fifth Edition
-Matt Frisbie
-[Buy Here](https://www.amazon.com/Professional-JavaScript-Developers-Matt-Frisbie-dp-1394193211/dp/1394193211/ref=dp_ob_title_bk)
+### Learning Objectives
 
-
-- JavaScript in HTML
-- Language Basics
-- Variables, Scope, and Memory
-- Basic Reference Types
-- Advanced Reference Types
-- Iterators and Generators
-- Objects, Classes, and Object-Oriented Programming
-- Proxies and Reflect
+- Values, types, and operators
+- Program structure
 - Functions
-- Promises and Async/Await
-- The Browser Object Model
-- The Document Object Model
-- DOM Extensions
-- Events
-- Animation and Graphics with Canvas
-- Scripting Forms
-- JavaScript APIs
-- Error Handling and Debugging
-- JSON
-- Network Requests and Remote Resources
-- Client-Side Storage
+- Data structures, objects, and arrays
+- Higher-order functions
+- Bugs and errors
+- Regular expressions
 - Modules
-- Workers
-- Best Practices
-- ES.Next
-- Strict Mode
-- JavaScript Libraries and Frameworks
-- JavaScript Tools
+- Asynchronous programming
+- The Document Object Model (DOM)
+- Handling events
+- HTTP and Forms
+- Node.js
 
-# JavaScript Learning Projects
 
+# JavaScript Learning Exercises and Projects
+### Eloquent JavaScript Exercises
 - Simple to-do List
 - Fully functional web based calculator
 - Digital representation of an analog clock in the browser
