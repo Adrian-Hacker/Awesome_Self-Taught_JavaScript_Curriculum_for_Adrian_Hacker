@@ -17,6 +17,8 @@ let abc = "abc";
 console.log(abc.length);
 // → 3
 
+**ANSWER:  while(myStr3.length < 7){ console.log(myStr3); myStr3 = myStr3 + '#';}**
+**DATE COMPLETED: 10/13/23**
 
 # FizzBuzz
 
