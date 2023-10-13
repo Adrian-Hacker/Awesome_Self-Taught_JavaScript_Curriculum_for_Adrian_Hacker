@@ -1,6 +1,8 @@
 # JavaScript Learning Module
 
-## Adrian's Awesome Explainer for Self Taught Students:  JavaScript
+*Quickly establishing a learning plan greatly improves your odds of success in self-learned software engineering.
+
+# Adrian's Awesome Explainer for Self Taught Students:  JavaScript
 
 Now that I'm more familiar with JavaScript, it's hard to pinpoint what was initially confusing. All I know is that everything was confusing at first 😵. My first programming language was C++, which didn't baffle me like JavaScript did. I think it's all the period "." joined names. It's tough to discern which words joined by the period are reserved keywords or instructor-made terms. Half the battle with learning JavaScript is the teacher 👩‍🏫. For that reason, I strongly recommend working through a JavaScript book cover-to-cover 📚. Don't listen to anyone else's opinions on JavaScript until you've done this. That's an order! 📣
 
@@ -64,24 +66,24 @@ But wait, there's more! It also controls browser activities, like pop-up windows
 # JavaScript Learning Exercises and Projects
 ### Eloquent JavaScript Exercises
 Complete the exercises on the following pages:
-- Page 37
-- Page 55
-- Page 79
-- Page 95
-- Page 115
-- Page 126
-- Page 165
-- Page 178
-- Page 201
-- Page 214
-- Page 241
-- Page 259
-- Page 282
-- Page 306
-- Page 328
-- Page 348
-- Page 367
-- Page 387
+- [Page 37](Exercises/Page_37.md)
+- [Page 55](Exercises/Page_55.md)
+- [Page 79](Exercises/Page_79.md)
+- [Page 95](Exercises/Page_95.md)
+- [Page 115](Exercises/Page_115.md)
+- [Page 126](Exercises/Page_126.md)
+- [Page 165](Exercises/Page_165.md)
+- [Page 178](Exercises/Page_178.md)
+- [Page 201](Exercises/Page_201.md)
+- [Page 214](Exercises/Page_214.md)
+- [Page 241](Exercises/Page_241.md)
+- [Page 259](Exercises/Page_259.md)
+- [Page 282](Exercises/Page_282.md)
+- [Page 306](Exercises/Page_306.md)
+- [Page 328](Exercises/Page_328.md)
+- [Page 348](Exercises/Page_348.md)
+- [Page 367](Exercises/Page_367.md)
+- [Page 387](Exercises/Page_387.md)
 
 
 ### Eloquent JavaScript Projects 
