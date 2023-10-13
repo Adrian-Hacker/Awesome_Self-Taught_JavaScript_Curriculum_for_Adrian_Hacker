@@ -61,8 +61,8 @@ But wait, there's more! It also controls browser activities, like pop-up windows
  
  ### Book: Eloquent JavaScript: A Modern Introduction to Programming
  ### Third Edition<br>
-[PDF](Books/Eloquent_JavaScript.pdf)<br>
-[EPUB](Books/Eloquent_JavaScript.epub)<br>
+[PDF](Book/Eloquent_JavaScript.pdf)<br>
+[EPUB](Book/Eloquent_JavaScript.epub)<br>
 
 ### Learning Objectives
 
