@@ -5,9 +5,9 @@
 ### How to Use: 
 Fork this repo, then simply read all of the things and do all of the things.  Retain your answers to the exercises in "Page_##.js" files in the "Exercises" directory.  Place files for your completed projects in the "Completed Projects" directory and fill out the following information:
 
-Self-Taught Learner's Name: 
+Self-Taught Learner's Name: **Adrian Hacker**
 <br>
-Date Started:
+Date Started: **October 10, 2023**
 <br>
 Date Finished:
 <br>
