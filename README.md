@@ -2,6 +2,24 @@
 
 *Quickly establishing a learning plan greatly improves your odds of success in self-learned software engineering.
 
+### How to Use: 
+Fork this repo, then simply read all of the things and do all of the things.  Retain your answers to the exercises in "Page_##.js" files in the "Exercises" directory.  Place files for your completed projects in the "Completed Projects" directory and fill out the following information:
+
+Self-Taught Learner's Name: 
+<br>
+Date Started:
+<br>
+Date Finished:
+<br>
+Summarize your learning experience in one to two paragraphs: 
+<br>
+<br>
+What did you enjoy the most in this learning module and why?
+<br>
+<br>
+What did you enjoy the least in this learning module and why? 
+<br>
+<br>
 # Adrian's Awesome Explainer for Self Taught Students:  JavaScript
 
 Now that I'm more familiar with JavaScript, it's hard to pinpoint what was initially confusing. All I know is that everything was confusing at first 😵. My first programming language was C++, which didn't baffle me like JavaScript did. I think it's all the period "." joined names. It's tough to discern which words joined by the period are reserved keywords or instructor-made terms. Half the battle with learning JavaScript is the teacher 👩‍🏫. For that reason, I strongly recommend working through a JavaScript book cover-to-cover 📚. Don't listen to anyone else's opinions on JavaScript until you've done this. That's an order! 📣
